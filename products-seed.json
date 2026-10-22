@@ -24,7 +24,7 @@
     "price": 15,
     "emoji": "🥗",
     "category": "Orientais",
-    "image": "imagens/produtos-recriados/fukujinzuke.jpg"
+    "image": "imagens/produtos-recriados/fukujinzuke-cliente.jpeg"
   },
   {
     "id": 4,
@@ -132,7 +132,7 @@
     "price": 25,
     "emoji": "🌰",
     "category": "Doces",
-    "image": "imagens/produtos-recriados/kuri-manju-novo.png"
+    "image": "imagens/produtos-recriados/kuri-manju-cliente.jpeg"
   },
   {
     "id": 16,
@@ -147,7 +147,7 @@
     "id": 17,
     "name": "Nikuman · 6 unidades",
     "desc": "Pãezinhos recheados com carne suína e legumes.",
-    "price": 30,
+    "price": 40,
     "emoji": "🥟",
     "category": "Orientais",
     "image": "imagens/produtos-recriados/nikuman-novo.png"
@@ -172,9 +172,9 @@
   },
   {
     "id": 20,
-    "name": "Queijo branco fresco",
+    "name": "Queijo branco fresco · pequeno",
     "desc": "Queijo branco fresco, feito em casa.",
-    "price": 30,
+    "price": 25,
     "emoji": "🧀",
     "category": "Caseiros",
     "image": "imagens/produtos-recriados/queijo-branco.jpg"
@@ -278,5 +278,33 @@
     "emoji": "🫓",
     "category": "Oriente Médio",
     "image": "imagens/produtos-recriados/pao-folha-novo.png"
+  },
+  {
+    "id": 32,
+    "name": "Coxinha de shimeji",
+    "desc": "Coxinha de mandioca com recheio de shimeji. R$ 3,00 a primeira unidade e R$ 2,50 cada unidade adicional.",
+    "price": 3,
+    "secondUnitPrice": 2.5,
+    "emoji": "🍗",
+    "category": "Caseiros",
+    "image": "imagens/produtos-recriados/coxinha-shimeji-cliente.jpeg"
+  },
+  {
+    "id": 33,
+    "name": "Kimuchi estilo coreano · 250 g",
+    "desc": "Conserva coreana artesanal. Embalagem com aproximadamente 250 g.",
+    "price": 25,
+    "emoji": "🥬",
+    "category": "Orientais",
+    "image": "imagens/produtos-recriados/kimuchi-coreano-cliente.jpeg"
+  },
+  {
+    "id": 34,
+    "name": "Espaguete de espinafre · 250 g",
+    "desc": "Massa fresca com farinha, ovo caipira, sal, óleo e espinafre orgânico.",
+    "price": 25,
+    "emoji": "🍝",
+    "category": "Caseiros",
+    "image": "imagens/produtos-recriados/espaguete-espinafre-cliente.jpeg"
   }
 ]
