@@ -1,0 +1,282 @@
+[
+  {
+    "id": 1,
+    "name": "Amanatto",
+    "desc": "Doce de fava (feijão cristalizado).",
+    "price": 20,
+    "emoji": "🍬",
+    "category": "Orientais",
+    "image": "imagens/produtos-recriados/amanatto-foto.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Bala de ágar-ágar",
+    "desc": "Sabores sortidos: morango, abacaxi, limão e uva.",
+    "price": 20,
+    "emoji": "🍡",
+    "category": "Doces",
+    "image": "imagens/produtos-recriados/bala-agar-novo.png"
+  },
+  {
+    "id": 3,
+    "name": "Fukujinzuke · 150 g",
+    "desc": "Conserva de nabo, cenoura, berinjela, pepino, yamakurague, lenkon, gengibre e gergelim.",
+    "price": 15,
+    "emoji": "🥗",
+    "category": "Orientais",
+    "image": "imagens/produtos-recriados/fukujinzuke.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Geleia orgânica ou diet",
+    "desc": "Amora ou frutas vermelhas com açúcar orgânico; ou geleia de amora diet.",
+    "price": 30,
+    "emoji": "🍯",
+    "category": "Caseiros",
+    "image": "imagens/produtos-recriados/geleia-organica.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Geleia de amora comum",
+    "desc": "Geleia artesanal de amora.",
+    "price": 25,
+    "emoji": "🫙",
+    "category": "Caseiros",
+    "image": "imagens/produtos-recriados/geleia-amora.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Gyoza suína · 12 unidades",
+    "desc": "Carne suína, nirá, repolho e gengibre. Pode aquecer no vapor, grelhar ou fritar.",
+    "price": 20,
+    "emoji": "🥟",
+    "category": "Orientais",
+    "image": "imagens/produtos-recriados/gyoza.jpg"
+  },
+  {
+    "id": 7,
+    "name": "Hibisco Hanaume · 150 g",
+    "desc": "Conserva temperada apenas com sal.",
+    "price": 15,
+    "emoji": "🌺",
+    "category": "Orientais",
+    "image": "imagens/produtos-recriados/hibisco.jpg"
+  },
+  {
+    "id": 8,
+    "name": "Kakimochi",
+    "desc": "Salgadinho de arroz temperado com sal ou shoyu. Escolha o sabor na observação.",
+    "price": 25,
+    "emoji": "🍘",
+    "category": "Orientais",
+    "image": "imagens/produtos-recriados/kakimochi.jpg"
+  },
+  {
+    "id": 9,
+    "name": "Chips de lenkon · 50 g",
+    "desc": "Raiz de lótus crocante.",
+    "price": 15,
+    "emoji": "🪷",
+    "category": "Orientais",
+    "image": "imagens/produtos-recriados/lenkon-chips.jpg"
+  },
+  {
+    "id": 10,
+    "name": "Conserva de lenkon · 100 g",
+    "desc": "Picles de raiz de lótus.",
+    "price": 15,
+    "emoji": "🥢",
+    "category": "Orientais",
+    "image": "imagens/produtos-recriados/lenkon-conserva.jpg"
+  },
+  {
+    "id": 11,
+    "name": "Lenkon fresco · 1 kg",
+    "desc": "Raiz de lótus in natura.",
+    "price": 60,
+    "emoji": "🪷",
+    "category": "Orientais",
+    "image": "imagens/produtos-recriados/lenkon-fresco.jpg"
+  },
+  {
+    "id": 12,
+    "name": "Kimpira de lenkon · 100 g",
+    "desc": "Raiz de lótus refogada com shoyu.",
+    "price": 15,
+    "emoji": "🥘",
+    "category": "Orientais",
+    "image": "imagens/produtos-recriados/kimpira-lenkon.jpg"
+  },
+  {
+    "id": 13,
+    "name": "Chips de mandioca · 50 g",
+    "desc": "Mandioca crocante.",
+    "price": 12,
+    "emoji": "🍟",
+    "category": "Caseiros",
+    "image": "imagens/produtos-recriados/chips-mandioca.jpg"
+  },
+  {
+    "id": 14,
+    "name": "Mandioca descascada · 1 kg",
+    "desc": "Mandioca descascada e congelada.",
+    "price": 15,
+    "emoji": "🥔",
+    "category": "Caseiros",
+    "image": "imagens/produtos-recriados/mandioca-congelada.jpg"
+  },
+  {
+    "id": 15,
+    "name": "Kuri manjyu · 6 unidades",
+    "desc": "Receita tradicional da família, preparada com carinho.",
+    "price": 25,
+    "emoji": "🌰",
+    "category": "Doces",
+    "image": "imagens/produtos-recriados/kuri-manju-novo.png"
+  },
+  {
+    "id": 16,
+    "name": "Missô · 500 g",
+    "desc": "Pasta de soja preparada sem uso de soja transgênica.",
+    "price": 25,
+    "emoji": "🥣",
+    "category": "Orientais",
+    "image": "imagens/produtos-recriados/miso.jpg"
+  },
+  {
+    "id": 17,
+    "name": "Nikuman · 6 unidades",
+    "desc": "Pãezinhos recheados com carne suína e legumes.",
+    "price": 30,
+    "emoji": "🥟",
+    "category": "Orientais",
+    "image": "imagens/produtos-recriados/nikuman-novo.png"
+  },
+  {
+    "id": 18,
+    "name": "Ovos orgânicos · 20 unidades",
+    "desc": "Cartela com 20 ovos orgânicos.",
+    "price": 30,
+    "emoji": "🥚",
+    "category": "Caseiros",
+    "image": "imagens/produtos-recriados/ovos-organicos-novo.png"
+  },
+  {
+    "id": 19,
+    "name": "Ovos caipiras · 10 unidades",
+    "desc": "Galinhas criadas soltas no sítio, com alimentação natural.",
+    "price": 20,
+    "emoji": "🥚",
+    "category": "Caseiros",
+    "image": "imagens/produtos-recriados/ovos-caipiras.jpg"
+  },
+  {
+    "id": 20,
+    "name": "Queijo branco fresco",
+    "desc": "Queijo branco fresco, feito em casa.",
+    "price": 30,
+    "emoji": "🧀",
+    "category": "Caseiros",
+    "image": "imagens/produtos-recriados/queijo-branco.jpg"
+  },
+  {
+    "id": 21,
+    "name": "Shoga cristalizado · 100 g",
+    "desc": "Gengibre cristalizado.",
+    "price": 15,
+    "emoji": "🫚",
+    "category": "Doces",
+    "image": "imagens/produtos-recriados/shoga.jpg"
+  },
+  {
+    "id": 22,
+    "name": "Shio koji · 250 ml",
+    "desc": "Sal fermentado com arroz. Realça o sabor; use em verduras, legumes ou carnes no lugar do shoyu.",
+    "price": 20,
+    "emoji": "🧂",
+    "category": "Orientais",
+    "image": "imagens/produtos-recriados/shio-koji.jpg"
+  },
+  {
+    "id": 23,
+    "name": "Suspiro · 50 g",
+    "desc": "Sabores café, matchá ou limão. Indique o sabor na observação.",
+    "price": 15,
+    "emoji": "☁️",
+    "category": "Doces",
+    "image": "imagens/produtos-recriados/suspiro.jpg"
+  },
+  {
+    "id": 24,
+    "name": "Tofu caseiro · 500 g",
+    "desc": "Produzido com soja não transgênica.",
+    "price": 25,
+    "emoji": "⬜",
+    "category": "Orientais",
+    "image": "imagens/produtos-recriados/tofu.jpg"
+  },
+  {
+    "id": 25,
+    "name": "Umeboshi · 150 g",
+    "desc": "Ameixa em conserva.",
+    "price": 15,
+    "emoji": "🫒",
+    "category": "Orientais",
+    "image": "imagens/produtos-recriados/umeboshi.jpg"
+  },
+  {
+    "id": 26,
+    "name": "Zabom cristalizado · 100 g",
+    "desc": "Cidra cristalizada.",
+    "price": 15,
+    "emoji": "🍋",
+    "category": "Doces",
+    "image": "imagens/produtos-recriados/zabom.jpg"
+  },
+  {
+    "id": 27,
+    "name": "Batata inglesa orgânica · kg",
+    "desc": "Produto de estação. Venda por quilo.",
+    "price": 15,
+    "emoji": "🥔",
+    "category": "Hortifruti",
+    "image": "imagens/produtos-recriados/batata-organica-novo.png"
+  },
+  {
+    "id": 28,
+    "name": "Coalhada · babaganuche · homus · 250 g",
+    "desc": "Escolha coalhada, babaganuche ou homus. Indique sua opção na observação.",
+    "price": 35,
+    "emoji": "🧆",
+    "category": "Oriente Médio",
+    "image": "imagens/produtos-recriados/oriente-medio.jpg"
+  },
+  {
+    "id": 29,
+    "name": "Doces árabes · bandeja",
+    "desc": "Bandeja com doces árabes. Preço médio; valor final a confirmar.",
+    "price": 70,
+    "emoji": "🍮",
+    "category": "Oriente Médio",
+    "image": "imagens/produtos-recriados/doces-arabes-novo.png",
+    "variable": true
+  },
+  {
+    "id": 30,
+    "name": "Pão árabe · 6 unidades",
+    "desc": "Fornecedor de Ribeirão Preto.",
+    "price": 30,
+    "emoji": "🫓",
+    "category": "Oriente Médio",
+    "image": "imagens/produtos-recriados/pao-arabe-novo.png"
+  },
+  {
+    "id": 31,
+    "name": "Pão folha · 6 unidades",
+    "desc": "Pão achatado, fornecedor de Ribeirão Preto.",
+    "price": 40,
+    "emoji": "🫓",
+    "category": "Oriente Médio",
+    "image": "imagens/produtos-recriados/pao-folha-novo.png"
+  }
+]

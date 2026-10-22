@@ -1,0 +1,1 @@
+Cardápio Vendinha da Karina. Extraia os arquivos mantendo as pastas e abra cardapio-whatsapp.html. Administração: acrescente ?admin=1 ao endereço. As alterações ficam salvas neste navegador. Ao clicar em + no produto, escolha a quantidade e confirme para adicionar ao carrinho.
