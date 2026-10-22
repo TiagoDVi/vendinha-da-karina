@@ -13,7 +13,7 @@ update public.products set image = 'imagens/produtos-recriados/fukujinzuke-clien
 
 insert into public.products (id, name, description, price, second_unit_price, emoji, category, image, variable, available)
 values
-(32, 'Coxinha de shimeji', 'Coxinha de mandioca com recheio de shimeji. R$ 3,00 a primeira unidade e R$ 2,50 cada unidade adicional.', 3, 2.50, '🍗', 'Caseiros', 'imagens/produtos-recriados/coxinha-shimeji-cliente.jpeg', false, true),
+(32, 'Coxinha de shimeji', 'Coxinha de mandioca com recheio de shimeji. R$ 3,00 a primeira unidade e R$ 2,50 cada unidade adicional.', 3, 2.50, '🍗', 'Salgados', 'imagens/produtos-recriados/coxinha-shimeji-produto.png', false, true),
 (33, 'Kimuchi estilo coreano · 250 g', 'Conserva coreana artesanal. Embalagem com aproximadamente 250 g.', 25, null, '🥬', 'Orientais', 'imagens/produtos-recriados/kimuchi-coreano-cliente.jpeg', false, true),
 (34, 'Espaguete de espinafre · 250 g', 'Massa fresca com farinha, ovo caipira, sal, óleo e espinafre orgânico.', 25, null, '🍝', 'Caseiros', 'imagens/produtos-recriados/espaguete-espinafre-cliente.jpeg', false, true)
 on conflict (id) do update set
@@ -23,7 +23,8 @@ on conflict (id) do update set
   second_unit_price = excluded.second_unit_price,
   emoji = excluded.emoji,
   category = excluded.category,
-  image = excluded.image;
+  image = excluded.image,
+  available = case when excluded.id = 32 then true else products.available end;
 
 -- Bucket público para exibir fotos; somente a Karina autenticada pode enviar/alterar/excluir.
 insert into storage.buckets (id, name, public, file_size_limit, allowed_mime_types)
